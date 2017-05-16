@@ -5,7 +5,7 @@ Build programm with `cargo build --release`
 
 ```
 Usage: wmparc trk-file [options]
-  trk-file       Fibertracking results in TrackVis format. Tracts have to be in the same space as the cortex parcellation image.
+  trk-file       Fibertracking results in TrackVis format. Trackts have to be in the same space as the cortex parcellation image.
   
  options:
   -n, --nifti    Path to nifti image that represents the cortex parcellation [required].
