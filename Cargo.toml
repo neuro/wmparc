@@ -1,0 +1,7 @@
+[package]
+name = "wmparc"
+version = "1.0.12"
+authors = ["Schiffler, Patrick <schiffler@uni-muenster.de>"]
+
+[dependencies]
+getopts = "0.2.14"
